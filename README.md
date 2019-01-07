@@ -1,6 +1,7 @@
 # Title
 
 PostgreSQL B-Tree Index Explained
+https://www.qwertee.io/blog/postgresql-b-tree-index-explained-part-1/
 
 ## Install
 
